@@ -37,3 +37,22 @@ Skills:
 - Prompting
 - AI-assisted workflows
 - Research
+
+___
+
+## 5. Notion Knowledge & Project Management
+
+Created and managed multiple Notion pages including:
+
+- Landing page planning
+- Health niche research
+- Digital guides
+- Productivity systems
+- Budget tracking
+- Project organization
+
+Skills:
+- Organization
+- Research
+- Documentation
+- Workflow management
